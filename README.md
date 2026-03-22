@@ -1,6 +1,6 @@
-# Omarchy
+# Jermop
 
-Omarchy is a beautiful, modern & opinionated Linux distribution by DHH.
+this is a Copy of Omarchy but entbloodet and with custem logo's.
 
 Read more at [omarchy.org](https://omarchy.org).
 
