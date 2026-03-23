@@ -3,7 +3,6 @@
 
 1password-beta
 1password-cli
-aether
 alacritty
 alsa-utils
 asdcontrol
@@ -14,7 +13,6 @@ bluetui
 bolt
 brightnessctl
 btop
-chromium
 clang
 cups
 cups-browsed
@@ -88,7 +86,6 @@ noto-fonts-emoji
 nss-mdns
 nvim
 obs-studio
-obsidian
 omarchy-nvim
 omarchy-walker
 pamixer
