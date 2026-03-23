@@ -6,4 +6,4 @@ Read more at [omarchy.org](https://omarchy.org).
 
 ## License
 
-Omarchy is released under the [MIT License](https://opensource.org/licenses/MIT).
+In Jermop are the same Licenses as Omarchy [MIT License](https://opensource.org/licenses/MIT).
